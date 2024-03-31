@@ -1,5 +1,5 @@
 # Engineering-Calculator
-*iOS Calculator App with Adaptive UI and MVVM Architecture*
+**iOS Calculator App with Adaptive UI and MVVM Architecture**.
 This project presents an engineering calculator app for iOS, developed using SwiftUI and the MVVM architectural pattern, providing a clean code structure and efficient data management. The app features an adaptive user interface that seamlessly transitions between portrait and landscape modes depending on the device orientation, providing an intuitive experience on a variety of Apple devices. 
 
 ## Major Functionality
@@ -10,7 +10,7 @@ This project presents an engineering calculator app for iOS, developed using Swi
 
 - Adaptive UI: Intelligently designed to provide an optimal user interface for both portrait and landscape orientations, adapting to the user's needs on the fly.
 
-Whether you need a simple addition or complex mathematical calculations, this app scales elegantly to your requirements, ensuring a high-quality calculator is always at your fingertips.
+**Whether you need a simple addition or complex mathematical calculations, this app scales elegantly to your requirements, ensuring a high-quality calculator is always at your fingertips.**
 
 ## Video
 
